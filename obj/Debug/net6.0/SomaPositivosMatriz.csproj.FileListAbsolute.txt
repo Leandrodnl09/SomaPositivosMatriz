@@ -1,0 +1,15 @@
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomaPositivosMatriz\bin\Debug\net6.0\SomaPositivosMatriz.exe
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomaPositivosMatriz\bin\Debug\net6.0\SomaPositivosMatriz.deps.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomaPositivosMatriz\bin\Debug\net6.0\SomaPositivosMatriz.runtimeconfig.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomaPositivosMatriz\bin\Debug\net6.0\SomaPositivosMatriz.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomaPositivosMatriz\bin\Debug\net6.0\SomaPositivosMatriz.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomaPositivosMatriz\obj\Debug\net6.0\SomaPositivosMatriz.csproj.AssemblyReference.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomaPositivosMatriz\obj\Debug\net6.0\SomaPositivosMatriz.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomaPositivosMatriz\obj\Debug\net6.0\SomaPositivosMatriz.AssemblyInfoInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomaPositivosMatriz\obj\Debug\net6.0\SomaPositivosMatriz.AssemblyInfo.cs
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomaPositivosMatriz\obj\Debug\net6.0\SomaPositivosMatriz.csproj.CoreCompileInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomaPositivosMatriz\obj\Debug\net6.0\SomaPositivosMatriz.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomaPositivosMatriz\obj\Debug\net6.0\refint\SomaPositivosMatriz.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomaPositivosMatriz\obj\Debug\net6.0\SomaPositivosMatriz.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomaPositivosMatriz\obj\Debug\net6.0\SomaPositivosMatriz.genruntimeconfig.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomaPositivosMatriz\obj\Debug\net6.0\ref\SomaPositivosMatriz.dll
